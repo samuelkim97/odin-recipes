@@ -1,0 +1,15 @@
+* {
+	text-transform: capitalize;
+}
+
+.title {
+	text-align: center;
+}
+
+.list-item a {
+	text-decoration: none;
+	color: black;
+}
+.list-item {
+	margin: 2rem 0;
+}
